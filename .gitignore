@@ -1,0 +1,15 @@
+# Python bianry files
+*/__pycache__
+.pyc
+
+# Build files
+**/build/**
+**/dist
+**.egg**
+
+
+# Other files
+
+
+# Folders
+__pycache__
